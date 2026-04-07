@@ -3,7 +3,6 @@
 </h1>
 
 
----
 
 ## 💫 About Me
 - **🚀 Role:** Software Engineer & Full-stack (MERN) Developer
