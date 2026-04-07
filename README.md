@@ -12,11 +12,6 @@
 
 ---
 
-### 📊 Language Proficiency & Skill Distribution
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul2003&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=36BCF7" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack & Tools
@@ -34,9 +29,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
