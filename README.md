@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=120&color=F59E0B&duration=4000&lines=Hi+There!+👋;I'm+Ruhul+Amin!;Software+Engineer;Full-stack+Developer!;React+%26+Tailwind+Expert" alt="Typing animation" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
@@ -72,6 +69,9 @@
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 ## 🤝 Connect with Me
