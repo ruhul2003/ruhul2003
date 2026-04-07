@@ -26,7 +26,10 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=ruhul2003&bg_color=0D1117&color=FFFFFF&line=36BCF7&point=F59E0B&area=true&hide_border=true" height="180em" />
   </p>
 </div>
-
+---
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ruhul2003&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 ---
 
 ## 🛠 Tech Stack & Tools
