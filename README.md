@@ -20,15 +20,16 @@
 ---
 
 <div align="center">
-  <!-- Dynamic GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=radical&count_private=true" alt="Ruhul Amin GitHub Stats" />
-  
-  <!-- Dynamic GitHub streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhul2003&theme=radical" alt="Ruhul Amin GitHub Streak" />
-  
+  <!-- Dynamic GitHub Insights -->
+  <img src="https://yourinsights.vercel.app/api/insight?username=ruhul2003&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+
+  <!-- Contributions Graph -->
+  <br>
+  <a href="#"><img src="contributions.svg" alt="Contributions" /></a>
+
   <!-- Dynamic visitor count -->
   <br>
-  ![Visitor Count](https://profile-counter.glitch.me/ruhul2003/count.svg)
+  ![Visitors](https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
 </div>
 
 <h2>
@@ -71,7 +72,7 @@
 ### 💾 Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
