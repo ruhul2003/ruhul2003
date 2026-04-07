@@ -9,7 +9,7 @@
 - **📫 I am a Software Engineer And Full-stack (MERN) Developer**
 - **💞️ I am a student of Computer Science and Engineering (CSE)**
 - **👀 Interested in:** programming
-- **🌱 Currently learning:** Practicing DSA with C++ , Development
+- **🌱 Currently learning:** Practicing DSA with C++, Development
 - **💞️ Looking to collaborate on:** open-source projects
 - **📫 How to reach me:** email: ruhul941020@gmail.com
 - **😄 Pronouns:** he/him
@@ -17,13 +17,18 @@
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">
 
+---
+
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ruhul2003&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <!-- Dynamic GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ruhul Amin GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhul2003&theme=radical" alt="Ruhul Amin GitHub Streak" />
 </div>
 
-<a href=#><img src="contributions.svg"></a>
-
-![Visitors](https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
+<div align="center">
+  <!-- Dynamic visitor count -->
+  ![Visitors](https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20views&color=0e75b6&style=for-the-badge)
+</div>
 
 <h2>
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width="36px">&nbsp;&nbsp; Programming Languages and Tools:
