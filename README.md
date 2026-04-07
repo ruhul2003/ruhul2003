@@ -1,14 +1,14 @@
-  <h1 align="center">Hi , I'm Ruhul Amin <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+  <h1 align="center">Hi , I'm Rafael <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 <!--
 **azizovrafael/azizovrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br>
-   <a href="https://github.com/ruhul2003"><img alt="Ruhull's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&amp;custom_title=Rafael's%20Contribution%20Graph&amp;theme=react-dark"></a>
+   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&amp;custom_title=Rafael's%20Contribution%20Graph&amp;theme=react-dark"></a>
   <br>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
