@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently learning
+**📫Iam a Software Engineer And Full-stack (MERN) Developer
+**💞️Iam a student of computer science and engineering (CSE)
+**👀 Interested in: programming
+**🌱 Currently learning:Practicing DSA with C++ , Development !
+**💞️ Looking to collaborate on: open-source projects
+**📫 How to reach me: email: ruhul941020gmail.com
+**😄 Pronouns: he/him
+**Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
 
 
 ## 🌐 Socials:
