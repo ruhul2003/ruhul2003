@@ -19,11 +19,11 @@
 ---
 
 ## 📊 GitHub Insights & Performance
-<div align="center">
+<!-- <div align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=F59E0B" height="180em" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul2003&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="180em" />
-  </p>
+  </p> -->
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhul2003&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=F59E0B&fire=F59E0B" height="180em" />
