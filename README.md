@@ -19,18 +19,17 @@
 
 ---
 
-
-
 <div align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=radical&count_private=true" alt="Ruhul Amin GitHub Stats" />
+  <!-- Dynamic GitHub Insights -->
+  <img src="https://yourinsights.vercel.app/api/insight?username=ruhul2003&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 
-  <!-- GitHub streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhul2003&theme=radical" alt="Ruhul Amin GitHub Streak" />
-
-  <!-- Visitor count -->
+  <!-- Contributions Graph -->
   <br>
-  ![Visitor Count](https://profile-counter.glitch.me/ruhul2003/count.svg)
+  <a href="#"><img src="contributions.svg" alt="Contributions" /></a>
+
+  <!-- Dynamic visitor count -->
+  <br>
+  ![Visitors](https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
 </div>
 
 <h2>
