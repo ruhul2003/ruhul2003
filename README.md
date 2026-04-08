@@ -23,6 +23,10 @@
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green" />
+</div>
+
+<div align="center">
   <img src="https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant." />
 </div>
 
