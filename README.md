@@ -2,23 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=120&color=F59E0B&duration=4000&lines=Hi+There!+👋;I'm+Ruhul+Amin!;Software+Engineer;Full-stack+Developer!;React+%26+Tailwind+Expert" alt="Typing animation" />
 </h1>
 
-
+---
 
 ## 💫 About Me
-- **🚀 Role:** Software Engineer & Full-stack (MERN) Developer
-- **🎓 Education:** Student of Computer Science and Engineering (CSE)
-- **🎯 Focus:** Practicing DSA with C++ and building scalable web applications
-- **🤝 Collaboration:** Open to contributing to innovative open-source projects
-- **📫 Reach Me:** [ruhul941020@gmail.com](mailto:ruhul941020@gmail.com)
-- **💬 Pronouns:** He/Him
+- **🚀 Role:** Software Engineer & Full-stack (MERN) Developer  
+- **🎓 Education:** Student of Computer Science and Engineering (CSE)  
+- **🎯 Focus:** Practicing DSA with C++ and building scalable web applications  
+- **🤝 Collaboration:** Open to contributing to innovative open-source projects  
+- **📫 Reach Me:** [ruhul941020@gmail.com](mailto:ruhul941020@gmail.com)  
+- **💬 Pronouns:** He/Him  
 
 ---
 
 ## 📊 GitHub Insights & Performance
 <div align="center">
-  ![ruhul2003's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow)
+
+  <img src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow" height="170"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=shadow" height="170"/>
+
 </div>
 
+<div align="center">
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant." />
+</div>
 
 ---
 
@@ -64,6 +70,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruhul2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
 ---
 
 ## 🤝 Connect with Me
