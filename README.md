@@ -15,7 +15,6 @@
 ---
 
 ## 📊 GitHub Insights & Performance
-## 📊 GitHub Insights & Performance
 
 <div align="center">
 
