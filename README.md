@@ -16,27 +16,25 @@
 
 ## 📊 GitHub Insights & Performance
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 
-  <img src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow&show_icons=true" height="200"/>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow&show_icons=true" 
+    width="500"
+  />
 
-</div>
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" 
+    width="500"
+  />
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="200"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=shadow&layout=compact" height="200"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant.&size=30" />
+  <!-- Top Languages -->
+  <img 
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=shadow&layout=compact" 
+    width="500"
+  />
 
 </div>
 
