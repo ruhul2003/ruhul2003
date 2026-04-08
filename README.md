@@ -25,6 +25,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhul2003&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=F59E0B&fire=F59E0B" height="180em" />
     <img src="https://activity-graph.herokuapp.com/graph?username=ruhul2003&bg_color=0D1117&color=FFFFFF&line=36BCF7&point=F59E0B&area=true&hide_border=true" height="180em" />
   </p> -->
+  ![ruhul2003's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow)
 </div>
 
 <div align="center">
