@@ -18,17 +18,19 @@
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 
+
+   <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" 
+    width="500"
+  />
   <!-- GitHub Stats -->
   <img 
     src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow&show_icons=true" 
     width="500"
   />
 
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" 
-    width="500"
-  />
+ 
 
   <!-- Top Languages -->
   <img 
