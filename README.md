@@ -40,6 +40,10 @@
 
 </div>
 
+
+  ![snake gif](https://github.com/ruhul2003/ruhul2003/blob/output/github-snake-dark.svg)
+
+
 ---
 
 ## 🛠 Tech Stack & Tools
