@@ -20,10 +20,11 @@
   <img src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul2003&layout=compact&theme=tokyonight" height="180" />
-</p>
+
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark)
+![ruhul2003's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=dark)
+
+
 
 <br>
 
