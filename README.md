@@ -26,7 +26,7 @@
   />
   <!-- GitHub Stats -->
   <img 
-    src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=shadow&show_icons=true" 
+    src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=dark&show_icons=true" 
     width="500"
   />
 
