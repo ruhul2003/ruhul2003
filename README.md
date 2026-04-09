@@ -34,7 +34,7 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=shadow&layout=compact" 
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark&layout=compact" 
     width="500"
   />
 
