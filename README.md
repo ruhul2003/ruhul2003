@@ -18,7 +18,6 @@
 
 <div align="center">
 
-  <!-- Row 1: Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" 
     height="180"
@@ -26,28 +25,21 @@
 
   <br><br>
 
-  <!-- Row 2: Stats + Languages -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-
-    <!-- GitHub Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=tokyonight" 
-      height="180"
-    />
-
-    <!-- Top Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul2003&layout=compact&theme=tokyonight" 
-      height="180"
-    />
-
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=tokyonight" height="180" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul2003&layout=compact&theme=tokyonight" height="180" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 <br>
 
-<!-- Snake Animation Center -->
 <p align="center">
   <img src="https://github.com/ruhul2003/ruhul2003/blob/output/github-snake-dark.svg" />
 </p>
