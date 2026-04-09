@@ -16,33 +16,41 @@
 
 ## 📊 GitHub Insights & Performance
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<div align="center">
 
-
-   <!-- Streak Stats -->
+  <!-- Row 1: Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" 
-    width="500"
-  />
-  <!-- GitHub Stats -->
-  <img 
-    src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=dark&show_icons=true" 
-    width="500"
+    height="180"
   />
 
- 
+  <br><br>
 
-  <!-- Top Languages -->
-  <img 
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark&layout=compact" 
-    width="500"
-  />
+  <!-- Row 2: Stats + Languages -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+
+    <!-- GitHub Stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ruhul2003&show_icons=true&theme=tokyonight" 
+      height="180"
+    />
+
+    <!-- Top Languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul2003&layout=compact&theme=tokyonight" 
+      height="180"
+    />
+
+  </div>
 
 </div>
 
+<br>
 
-  ![snake gif](https://github.com/ruhul2003/ruhul2003/blob/output/github-snake-dark.svg)
-
+<!-- Snake Animation Center -->
+<p align="center">
+  <img src="https://github.com/ruhul2003/ruhul2003/blob/output/github-snake-dark.svg" />
+</p>
 
 ---
 
