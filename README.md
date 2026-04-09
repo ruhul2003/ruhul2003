@@ -21,8 +21,8 @@
 </p>
 
 
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark)
-![ruhul2003's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=dark)
+ <p align="center">  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark" alt="Top Languages">
+<img src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=dark" alt="ruhul2003's GitHub Stats"></p>
 
 
 
