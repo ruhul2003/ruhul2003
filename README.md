@@ -16,12 +16,12 @@
 
 ## 📊 GitHub Insights & Performance
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://streak-stats.demolab.com?user=ruhul2003&theme=blue-green&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="180" />
 </p>
 
 
- <p align="center">  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark" alt="Top Languages">
+<!-- <p align="center">  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ruhul2003&theme=dark" alt="Top Languages">
 <img src="https://readme-stats-github.pages.dev/api?username=ruhul2003&theme=dark" alt="ruhul2003's GitHub Stats"></p>
 
 
