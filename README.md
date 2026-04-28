@@ -10,7 +10,7 @@
 - **🎯 Focus:** Practicing DSA with C++ and building scalable web applications  
 - **🤝 Collaboration:** Open to contributing to innovative open-source projects  
 - **📫 Reach Me:** [ruhul941020@gmail.com](mailto:ruhul941020@gmail.com)  
-- **📫 My Portfolio :** [my-portfolio-phi-khaki-73.vercel.app] 
+- **📫 My Portfolio:** [Visit My Portfolio](https://my-portfolio-phi-khaki-73.vercel.app)
 - **💬 Pronouns:** He/Him  
 
 ---
