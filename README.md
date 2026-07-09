@@ -37,43 +37,45 @@
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
 </p>
 
 ### 🎨 CSS Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/daisyui-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://img.shields.io/badge/-daisyui-%235A0EF8?style=flat-square&logo=daisyui&logoColor=white" height="45" style="border-radius: 10px; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
 </p>
 
 ### 🚀 JavaScript Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px; filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px; filter: invert(1) brightness(2);" />
 </p>
 
 ### 🗄️ Database & Model
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
 </p>
 
 ### ☁️ Deployment Platform & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px; filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px; filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" style="background: #141416; padding: 8px; border-radius: 10px; border: 1px solid #27272a; margin-right: 6px;" />
 </p>
 
 <br />
