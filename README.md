@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb1a266b-601a-4d20-9fdf-33dd83cadc96" alt="Ruhul Amin Banner" width="100%">
+</p>
+
+<br />
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=120&color=F59E0B&duration=4000&lines=Hi+There!+👋;I'm+Ruhul+Amin!;Software+Engineer;Full-stack+Developer!;React+%26+Tailwind+Expert" alt="Typing animation" />
 </h1>
@@ -10,7 +18,7 @@
 - **🎯 Focus:** Practicing DSA with C++ and building scalable web applications  
 - **🤝 Collaboration:** Open to contributing to innovative open-source projects  
 - **📫 Reach Me:** [ruhul941020@gmail.com](mailto:ruhul941020@gmail.com)  
-- **📫 My Portfolio:** [Visit My Portfolio](https://my-portfolio-two-jade-48.vercel.app/)
+- **📫 My Portfolio:** [Visit My Portfolio](https://my-portfolio-five-zeta-33.vercel.app)
 - **💬 Pronouns:** He/Him  
 
 ---
