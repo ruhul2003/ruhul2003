@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f8d8000-e6f7-44c7-96cc-0968cb3485f4" alt="Ruhul Amin - Full Stack Developer Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/fceda6c0-55d9-4e1b-b1bc-9a8af105bb1e" alt="Ruhul Amin - Full Stack Developer Banner" width="100%">
 </p>
+
+<br />
 
 <br />
 
