@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="1161" height="313" alt="Screenshot 2026-07-10 042218" src="https://github.com/user-attachments/assets/f7f08450-eb2c-4f01-b113-582995bd41ce" />
+ <img width="1912" height="520" alt="Gemini_Generated_Image_n4a6acn4a6acn4a6-ezremove" src="https://github.com/user-attachments/assets/8bfc9bda-e490-4987-aeeb-add7dc04d8a3" />
+
 
 
 </p>
