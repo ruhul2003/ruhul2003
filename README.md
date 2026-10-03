@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,20,24&height=240&section=header&text=Ruhul%20Amin&fontSize=50&fontAlignY=40&desc=Full-Stack%20Software%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </p>
 
-<br />
-<br />
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=120&color=F59E0B&duration=4000&lines=Hi+There!+👋;I'm+Ruhul+Amin!;Software+Engineer;Full-stack+Developer!;React+%26+Tailwind+Expert" alt="Typing animation" />
 </h1>
