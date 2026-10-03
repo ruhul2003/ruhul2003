@@ -37,56 +37,57 @@
 
 ### <p align="left">👨‍💻 Languages</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" />
 </p>
 
-### <p align="left">🎨 CSS Frameworks & Libraries</p>
+### <p align="left">🌐 Frontend Development</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://img.shields.io/badge/-daisyui-%235A0EF8?style=flat-square&logo=daisyui&logoColor=white" height="48" style="margin: 10px 18px; padding: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" width="48" height="48" />
 </p>
 
-### <p align="left">🚀 JavaScript Frameworks & Libraries</p>
+### <p align="left">⚙️ Backend & APIs</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px; filter: invert(1);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px; background-color: #ffffff; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/express/white" width="48" height="48" />
 </p>
 
-### <p align="left">🗄️ Database & Model</p>
+### <p align="left">🗄️ Databases</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" />
 </p>
 
-### <p align="left">☁️ Deployment Platform</p>
+### <p align="left">☁️ DevOps & Cloud Deployment</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px; background-color: #ffffff; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/vercel/white" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="48" height="48" />
 </p>
 
-### <p align="left">🎨 Design & Graphics</p>
+### <p align="left">🎨 UI/UX & Graphic Design</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" />
 </p>
 
-### <p align="left">⚙️ Tools & Technologies</p>
+### <p align="left">💻 Developer Tools & Environment</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px; background-color: #ffffff; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" />
 </p>
 
 <br />
