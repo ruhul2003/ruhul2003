@@ -48,13 +48,13 @@
 </p>
 
 ### <p align="left">🎨 CSS Frameworks & Libraries</p>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://img.shields.io/badge/-daisyui-%235A0EF8?style=flat-square&logo=daisyui&logoColor=white" height="48" style="margin: 10px 18px; padding: 6px;" />
 </p>
 
 ### <p align="left">🚀 JavaScript Frameworks & Libraries</p>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px; filter: invert(1);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
@@ -62,26 +62,26 @@
 </p>
 
 ### <p align="left">🗄️ Database & Model</p>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
 </p>
 
 ### <p align="left">☁️ Deployment Platform</p>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px; background-color: #ffffff; border-radius: 8px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
 </p>
 
 ### <p align="left">🎨 Design & Graphics</p>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
 </p>
 
 ### <p align="left">⚙️ Tools & Technologies</p>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" style="margin: 10px 18px; padding: 6px;" />
