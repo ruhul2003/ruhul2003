@@ -31,43 +31,50 @@
 
 ## 🛠 Tech Stack & Tools
 
-### <p align="left">👨‍💻 Languages</p>
+### 🧠 Programming Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
 </p>
 
 ### <p align="left">🌐 Frontend Development</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" />
 </p>
 
 ### <p align="left">⚙️ Backend & APIs</p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/express/white" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
 </p>
 
 ### <p align="left">🗄️ Databases</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/mongoose/white" width="48" height="48" />
 </p>
 
 ### <p align="left">☁️ DevOps & Cloud Deployment</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/vercel/white" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" />
 </p>
 
 ### <p align="left">🎨 UI/UX & Graphic Design</p>
@@ -79,9 +86,12 @@
 
 ### <p align="left">💻 Developer Tools & Environment</p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" />
 </p>
