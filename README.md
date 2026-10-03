@@ -1,8 +1,7 @@
 <p align="center">
- <img width="3878" height="926" alt="Cover" src="https://github.com/user-attachments/assets/5793a7b3-eb07-4c82-9d48-5f80936a8a7e" />
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,20,24&height=240&section=header&text=Ruhul%20Amin&fontSize=50&fontAlignY=40&desc=Full-Stack%20Software%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </p>
+
 <br />
 <br />
 
